@@ -1,1 +1,1 @@
-# shc-alpine
+# SHC
